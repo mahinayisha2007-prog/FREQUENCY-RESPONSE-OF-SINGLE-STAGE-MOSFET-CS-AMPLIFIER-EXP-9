@@ -1,6 +1,6 @@
 # FREQUENCY-RESPONSE-OF-SINGLE-STAGE-MOSFET-CS-AMPLIFIER-EXP-9
 
-# AIM
+# AIM:
 ![WhatsApp Image 2025-11-21 at 21 09 41_4fee718f](https://github.com/user-attachments/assets/d12f41e0-d707-4653-a19d-49ec66c554e0)
 
 # COMPONENT REQUIRED
